@@ -1,2 +1,2 @@
-You can copy this and preview the project 
+You can copy paste the link and preview the project 
 tributepageofmj.netlify.app
